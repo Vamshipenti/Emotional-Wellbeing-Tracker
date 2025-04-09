@@ -25,7 +25,7 @@ A simple and engaging mobile app built using **React Native** that helps users t
 
 ## 📸 Screenshots
 
-> (You can insert your screenshots here once taken)
+> assets\images\MoodTrackerApp Screenshot.jpg
 
 ---
 
