@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MoodTracker",
-    "slug": "MoodTracker",
+    "name": "Emotinal-Wellbeing-Tracker",
+    "slug": "Emotinal-Wellbeing-Tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

@@ -1,4 +1,4 @@
-# Mood Tracker App
+# Emotinal-Wellbeing-Tracker
 
 A simple and engaging mobile app built using **React Native** that helps users track their daily moods and view a visual summary in the form of an emoji-enhanced pie chart.
 
@@ -33,12 +33,12 @@ A simple and engaging mobile app built using **React Native** that helps users t
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/mood-tracker-app.git
+git clone https://github.com/vamshipenti/Emotional-Wellbeing-Tracker.git
 ```
 
 2. **Navigate to the project directory**  
 ```bash
-cd mood-tracker-app
+cd Emotional-Wellbeing-Tracker
 ```
 
 3. **Install dependencies**  
